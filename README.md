@@ -6,6 +6,9 @@
 
 [![Website](https://img.shields.io/badge/aetherguard.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aetherguard.xyz/)
 [![GitHub](https://img.shields.io/badge/01xJB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01xJB)
+[![LinkedIn](https://img.shields.io/badge/0xJB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xjb/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rDYw38Mmw)
+[![CTF Platform](https://img.shields.io/badge/AetherGuard%20CTF-000000?style=for-the-badge&logo=flag&logoColor=white)](https://ctf.aetherguard.xyz/)
 
 </div>
 
@@ -13,10 +16,15 @@
 
 | Project | Description |
 |---|---|
+| 📝 [**Writeups Blog**](https://01xjb.github.io/) | CTF writeups (TryHackMe, HackTheBox) and red team research notes |
 | 🔍 [**MongoSmash**](https://github.com/01xJB/mongosmash) | Multithreaded scanner for discovering and auditing unauthenticated MongoDB instances |
 | 📡 [**PGPSearch**](https://github.com/01xJB/pgpsearch) | OSINT tool for harvesting publicly listed PGP identities by domain |
 | 🔐 [**Covert Communications Server**](https://github.com/01xJB/Covert-Communications-Server) | Encrypted, compressed socket chat server for studying covert-channel comms |
 | 🛠️ [**GoManager**](https://github.com/01xJB/gomanager) | Interactive TUI for auditing and cleaning up your Go module cache |
+
+### AetherGuard CTF
+
+Join our CTF community: play at [ctf.aetherguard.xyz](https://ctf.aetherguard.xyz/) and chat on [Discord](https://discord.gg/rDYw38Mmw).
 
 <div align="center">
 
