@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=650&lines=Founder+%40+AetherGuard+Technologies;Breaking+things+so+they+can't+be+broken+by+someone+worse.;Red+Team+%7C+Penetration+Testing+%7C+OSINT)](https://github.com/01xJB)
 
+[![Blog](https://img.shields.io/badge/Writeups%20Blog-17cc74?style=for-the-badge&logo=hugo&logoColor=white)](https://01xjb.github.io/)
 [![Website](https://img.shields.io/badge/aetherguard.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aetherguard.xyz/)
 [![GitHub](https://img.shields.io/badge/01xJB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01xJB)
 [![LinkedIn](https://img.shields.io/badge/0xJB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xjb/)
